@@ -9,11 +9,11 @@ permissions:
 
 env:
   # TODO: Update this
-  SQL_SERVER: 
-  DATABASENAME: 
-  ACR: 
-  AKS_CLUSTER_NAME: 
-  RESOURCE_GROUP_NAME: 
+  SQL_SERVER: jo-demo-sqlserver-0331.database.windows.net
+  DATABASENAME: mhcdb
+  ACR: akshandsonlabacrjo.azurecr.io
+  AKS_CLUSTER_NAME: akshandsonlabjo
+  RESOURCE_GROUP_NAME: joaks0331_group
 
 jobs:
   build:
