@@ -11,8 +11,8 @@ env:
   # TODO: Update this
   SQL_SERVER: jo-demo-sqlserver-0331.database.windows.net
   DATABASENAME: mhcdb
-  ACR: akshandsonlabacrjo.azurecr.io
-  AKS_CLUSTER_NAME: akshandsonlabjo
+  ACR: akshandsonacrjo0445.azurecr.io
+  AKS_CLUSTER_NAME: akshandson-jo0405
   RESOURCE_GROUP_NAME: joaks0331_group
 
 jobs:
